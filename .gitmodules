@@ -1,6 +1,3 @@
-[submodule "server"]
-	path = server
-	url = https://github.com/rothasok/my-express-cadt.git
 [submodule "client"]
 	path = client
 	url = https://github.com/rothasok/vue-admin-core-main.git
